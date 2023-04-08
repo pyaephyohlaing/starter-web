@@ -13,3 +13,7 @@ The project must be tested througly
 ## Deployment
 
 This is a simple deployment
+
+## UAT
+
+This is a UAT testing area
