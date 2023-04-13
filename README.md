@@ -21,3 +21,7 @@ This is a UAT testing area
 ### Copyright
 
 2023@Git.Training
+
+## How To Contribute
+
+Please fork this repository and then issue pull requests for review.
