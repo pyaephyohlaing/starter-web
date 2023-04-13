@@ -17,3 +17,7 @@ This is a simple deployment
 ## UAT
 
 This is a UAT testing area
+
+### Copyright
+
+2023@Git.Training
