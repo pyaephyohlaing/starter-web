@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-This is a rebasing example. Sample website with plenty of files for demos
+This is a rebasing example. This is a purpose. Sample website with plenty of files for demos
 
 ## Testing
 
